@@ -6,7 +6,7 @@ A responsive website which is developed using  bootstrap. Navbar changes based o
 
 The following images illustrate all device sizes, from extra small to extra large.</br>
 
-Extra Small (Size < 576px), Small (Size >= 576px) and Medium (Size >= 768px):</br>
+Extra Small (Size < 576px), Small (Size >= 576px) and Medium (Size >= 768px):</br></br>
 ** https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/responsive-website/vr-nav-and-banner-xs-v1.png</br></br>
 ** https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/responsive-website/vr-nav-expand-and-banner-xs-v1.png</br></br>
 ** https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/responsive-website/vr-nav-and-banner-lg-v1.png</br></br>
